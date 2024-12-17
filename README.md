@@ -3,9 +3,14 @@
 I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive business decisions. With expertise in **Excel**, **Microsoft Power BI**, **SQL**, and **Python**, I specialize in data analysis, visualization, and reporting. I enjoy solving complex problems and delivering solutions that improve business performance.
 
 ## 🚀 Skills & Tools:
-- **Data Analysis & Visualization**: [![Power BI](https://img.shields.io/badge/-Power%20BI-4E72B1?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+- **Data Analysis & Visualization**:
+  <a href="https://powerbi.microsoft.com/" target="_blank"">
+
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" width="50" height="50">
+  </a>  
   [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  ![PowerBI](https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d)
 - **SQL**: [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 - **Programming Languages**: Python (data analytics libraries), SQL
 - **Tools**: Power BI, Excel, Jupyter Notebooks, Tableau, Git
