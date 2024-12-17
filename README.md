@@ -39,5 +39,8 @@ I work on a variety of data analysis and visualization projects, including:
 
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sageeta-yadav)  
-- [Email](mailto:sageeta.yadav.da@gmail.com)
+- [Email](mailto:sageeta.yadav.da@gmail.com) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sageeta-yadav)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sageeta.yadav.da@gmail.com)
+
  
