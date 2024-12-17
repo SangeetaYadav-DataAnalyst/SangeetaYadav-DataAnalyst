@@ -4,12 +4,15 @@ I am a **Data Analyst** with a passion for transforming raw data into actionable
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
   </a>
+  
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
     <img src="https://github.com/user-attachments/assets/e95f543d-e9d8-427e-8f87-4e2e2f288831" alt="Power BI" width="80" height="80" >
   </a> 
+  
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/73bcdc09-4ca6-4b12-b439-d83f644f520d" alt="Power BI" width="80" height="80" >
+    <img src="https://github.com/user-attachments/assets/6cf6b0d9-f774-4409-bffb-ef4c8c029c21" alt="Power BI" width="80" height="80" >
   </a>
+
   <a href="https://www.python.org/" target="_blank">
     <img src="https://github.com/user-attachments/assets/fb4d004b-888a-40cb-813a-d695ad3a960f" alt="Power BI" width="80" height="80" >
   </a> 
