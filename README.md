@@ -1,13 +1,28 @@
 # Hi, I'm Sageeta Yadav 👋
 
-I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive business decisions. With expertise in **Excel**, **Microsoft Power BI**, **SQL**, and **Python**, I specialize in data analysis, visualization, and reporting. I enjoy solving complex problems and delivering solutions that improve business performance.
+I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive business decisions. With expertise in  
+  <a href="https://powerbi.microsoft.com/" target="_blank"">
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
+  </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"">
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
+  </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"">
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
+  </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"">
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
+  </a>
+  I specialize in data analysis, visualization, and reporting. I enjoy solving complex problems and delivering solutions that improve business performance.
 
 ## 🚀 Skills & Tools:
 - **Data Analysis & Visualization**:
   <a href="https://powerbi.microsoft.com/" target="_blank"">
-
-    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" width="50" height="50">
-  </a>  
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"">
+    <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d" alt="Power BI" width="80" height="80" >
+  </a> 
   [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
   ![PowerBI](https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d)
