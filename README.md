@@ -1,7 +1,9 @@
 # Hi, I'm Sageeta Yadav 👋
 
-I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive business decisions.
-With expertise in: 
+I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive informed business decisions. I specialize in data analysis, visualization, and reporting, and I enjoy solving complex problems to deliver solutions that optimize business performance and enhance decision-making.
+
+Below are the areas of my expertise:
+ 
    <a href="https://powerbi.microsoft.com/" target="_blank">
      <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d"  width="60" height="60" >
   </a>
@@ -15,7 +17,7 @@ With expertise in:
     <img src="https://github.com/user-attachments/assets/fb4d004b-888a-40cb-813a-d695ad3a960f" width="60" height="60" >
   </a> 
   
-  I specialize in data analysis, visualization, and reporting. I enjoy solving complex problems and delivering solutions that improve business performance.
+
 
 ## 🚀 Skills & Tools: 
 - **Data Analysis & Visualization**: Excel, Power BI, Python (Pandas, Matplotlib, Seaborn)
