@@ -2,7 +2,7 @@
 
 I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive business decisions.
 With expertise in  
- - <a href="https://powerbi.microsoft.com/" target="_blank">
+ - PowerBI <a href="https://powerbi.microsoft.com/" target="_blank">
      <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d"  width="60" height="60" >
   </a>
  - <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
