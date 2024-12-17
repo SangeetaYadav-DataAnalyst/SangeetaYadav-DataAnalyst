@@ -1,5 +1,9 @@
 # Hi, I'm Sageeta Yadav 👋
 
+## 🔗 Connect with Me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sageeta-yadav)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sageeta.yadav.da@gmail.com)
+
 I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive business decisions.
 With expertise in  
    <a href="https://powerbi.microsoft.com/" target="_blank">
@@ -37,10 +41,5 @@ I work on a variety of data analysis and visualization projects, including:
 - **Advanced Excel**: Utilizing formulas, pivot tables, charts, and data modeling to perform in-depth analysis.
 - **SQL Queries**: Writing complex queries to extract, filter, and join data from relational databases.
 
-## 🔗 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/sageeta-yadav)  
-- [Email](mailto:sageeta.yadav.da@gmail.com) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sageeta-yadav)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sageeta.yadav.da@gmail.com)
 
  
